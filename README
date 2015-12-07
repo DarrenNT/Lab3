@@ -1,0 +1,9 @@
+"Lab3" made by Darren Tam(ID# 5037702)
+
+-- MAKING THE FILE:
+	* Change to the "Lab3" directory using cd in the terminal
+	* Type make
+
+-- RUNNING THE FILE:
+	* in the "Lab3" directory type ./prog
+	* Editing driver.cpp will vary results
